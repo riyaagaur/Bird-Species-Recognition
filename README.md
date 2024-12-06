@@ -1,7 +1,7 @@
 # Bird-Species-Recognition
 
 ## Project Overview
-This project aims to classify bird species from images using deep learning techniques. We developed a convolutional neural network (CNN) model that accurately identifies bird species from a diverse dataset of bird images.
+This project aims to classify bird species from images using deep learning techniques. I developed a convolutional neural network (CNN) model that accurately identifies bird species from a diverse dataset of bird images.
 
 ## Features
 - Bird species identification using CNN.
